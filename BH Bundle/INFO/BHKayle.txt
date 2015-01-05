@@ -1,0 +1,33 @@
+.########..##.....##....##....##....###....##....##.##.......########
+.##.....##.##.....##....##...##....##.##....##..##..##.......##......
+.##.....##.##.....##....##..##....##...##....####...##.......##......
+.########..#########....#####....##.....##....##....##.......######..
+.##.....##.##.....##....##..##...#########....##....##.......##......
+.##.....##.##.....##....##...##..##.....##....##....##.......##......
+.########..##.....##....##....##.##.....##....##....########.########
+
+
+Changelog:
+	v1.20: Revamped the script
+	       Updated auto ignite for latest patch
+	       Updated Combo
+	       Updated Lane Clear
+	v1.02: Heal isn't canceling teleport anymore
+	v1.00: Changed auth.
+	v0.05: Hotfixed killdraws in the patch until next update
+	v0.04: Fixed a bug of healing while recalling
+	v0.03: Added jungle clear and smart W usage to chase people on combo.
+	v0.02: Tweaked ignite in combo, added AutoKS with Q and changed the mana use in the menu.
+	v0.01: Initial Release
+
+Features:
+	*AutoCombo to the target you can kill before: Q+E (And W Option)
+	*Harass with Q (And E Option)
+	*It uses items and Ignite automatically on KS and on Combo.
+	*Auto heal and auto ult to selected allies on the menu.
+
+
+TO-DO/Planned in future version:
+	*Laneclear
+	*Farmer with Q
+	*Improve Ult usage in general

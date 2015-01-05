@@ -1,0 +1,40 @@
+
+########  ##     ## ######## ##     ## ########  ########  ######  ##     ## 
+##     ## ##     ##    ##    ##     ## ##     ## ##       ##    ## ##     ## 
+##     ## ##     ##    ##    ##     ## ##     ## ##       ##       ##     ## 
+########  #########    ##    ######### ########  ######    ######  ######### 
+##     ## ##     ##    ##    ##     ## ##   ##   ##             ## ##     ## 
+##     ## ##     ##    ##    ##     ## ##    ##  ##       ##    ## ##     ## 
+########  ##     ##    ##    ##     ## ##     ## ########  ######  ##     ## 
+
+Special thanks to ENTRYWAY, he wrote a good part of this script, so thanks to him part of it :)
+
+Changelog:
+	v1.30: Updated for latest patch
+	       Fixed auto interrupt spells
+	v1.07:  Added AutoUlt if people X people around.
+		Added AutoW saver for people.
+	v1.05:  Added an option to not use 2nd Q if you don't want to in the combo.
+	v1.04:  Added Prodiction support
+	v1.03:  Auth Changes
+	v1.01:  Added autoE pull to enemy in range (Toggle)
+	v1.00:  Auth Change
+	v0.01:	First Release
+
+Features:
+	*Smart Combo: On teamfight, it's using E to pull enemies, hooking 
+	the best/selected (With left click) enemy, and with option to
+	auto use the R on some enemies.
+
+	*Lantern Combo: It's casting Q, then W to your friend and then Q.
+	 I recommend to check if you have the ally in the W range since it's
+	still kinda untested without that.
+
+	*Range Draws
+
+	*Extra functions to pull, push, and hook enemies if you don't want to
+	rely the script to do the combo for you.
+	
+	*It's pulling or pushing some gapclosers such us Tristana, Gragas, Aatrox...
+	This is WIP, but there are some of them working perfectly (Try Gragas or Tris
+ 	by yourself)

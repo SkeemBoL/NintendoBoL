@@ -1,0 +1,72 @@
+######  #     #    #     #                                      
+#     # #     #    ##    # # #####    ##   #      ###### ###### 
+#     # #     #    # #   # # #    #  #  #  #      #      #      
+######  #######    #  #  # # #    # #    # #      #####  #####  
+#     # #     #    #   # # # #    # ###### #      #      #      
+#     # #     #    #    ## # #    # #    # #      #      #      
+######  #     #    #     # # #####  #    # ###### ###### ###### 
+
+
+Changelog:
+	v3.01: Complete Rewrite of Script
+	       New smart combo with proper Q passive usage
+	       New Smart Prediction
+	       New Combo Settings
+	       SxOrbwalk included (of course all other orbwalkers are also supported)
+	       New Smart healing system
+	       Fixed Auto poke also added 100% hitchance
+	       New 'simplistic' menu
+	v3.05: Made Combo Smarter
+	       Improved Q Prediction
+	       Fixed Lane, Jungle Clear
+	       Added Escape Key
+	       Added auto pounce to mouse if enemy not in range
+	v3.10: Recoded Combo now works a lot smoother (Users R better)
+	       Better Spear Accuracy
+	       Added Harass Mode
+	       Added Use W (Traps) on targets snared/slowed/stuned
+	       Added KillSteals with proper R Switches
+
+----> OLD
+	v1.09: Heal isn't canceling teleport anymore
+	v1.07: Reverted changes
+	v1.06: Fixed E on cougar form
+	v1.05: Recall+heal should be fixed, added E on combo.
+	v1.04: bugfixed
+	v1.03: Added W in combo to proc Lith Bane
+	v1.02: Added autoharass with spears on toggle
+	v1.01: Internal Changes
+	v1.00: Rewritten version + new auth
+	v0.05: VPrediction support with E and R
+	       Bugs fixed. It's not transforming into human form
+               another time if you don't have mana to cast a Q.
+	v0.04: Fixed KillDraws until next BoL Update (Causing bugsplat)
+	v0.03: Fixed Pounce To Mouse
+
+	v0.02: Tweaked Q and Cougar E Range
+	       Tweaked Q speed (Measured Ingame)
+	       Added Draws for possible cougar jumps
+	       Tweaked Pounce-To-Mouse
+	       Smarter Ignite in combo
+	       Modified Mana Calcs to Plane mana instead of % (Better for lategame)
+
+	v0.01: Initial Release
+	
+
+Features:
+	*Combo:
+		-It's using spears and orbwalking if you are not in range to transform in
+		 cougar.
+		-On cougar mode, it's doing the abilities facing the enemy automatically. If
+		 you aren't near enough, Nidalee cast the R to start throwing spears.
+		-Option to deactivate changeform, and ranges to transform.
+	*Poke: 
+		-Poke with Spears.
+	*Auto heal on Human mode to allies selected on the menu.
+	*Pounce to mouse / Pounce meanwhile transform into human
+	*It draws the number of spears you need to kill the objetive at his current.
+	*It's using donator prodiction callbacks in case you are donator.
+
+
+TO-DO/Planned in future version:
+	*Cougar Calculations

@@ -1,0 +1,27 @@
+.########..##.....##.....######..####..#######..##....##
+.##.....##.##.....##....##....##..##..##.....##.###...##
+.##.....##.##.....##....##........##..##.....##.####..##
+.########..#########.....######...##..##.....##.##.##.##
+.##.....##.##.....##..........##..##..##.....##.##..####
+.##.....##.##.....##....##....##..##..##.....##.##...###
+.########..##.....##.....######..####..#######..##....##
+
+Changelog:
+	v1.20: Updated for latest patch
+	       Fixed Auto Ignite
+	       Fixed Auto W
+	       Added SxOrbWalk
+	v1.00: Auth Change
+	v0.01: First release
+
+Features:
+	+Poke with Q
+	+AutoCombo for Sion AP, with options to disable some spells (Like W)
+	if you want to play Sion AD.
+	+Draws on enemies to know how many damage you should deal to them to
+	get the kill. 
+	+Circle Draws of the ranges
+
+TO-DO:
+	+Implement Sion AD calculations
+	+Autoshield option

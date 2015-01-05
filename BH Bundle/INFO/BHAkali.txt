@@ -1,0 +1,53 @@
+.########..##.....##.......###....##....##....###....##.......####
+.##.....##.##.....##......##.##...##...##....##.##...##........##.
+.##.....##.##.....##.....##...##..##..##....##...##..##........##.
+.########..#########....##.....##.#####....##.....##.##........##.
+.##.....##.##.....##....#########.##..##...#########.##........##.
+.##.....##.##.....##....##.....##.##...##..##.....##.##........##.
+.########..##.....##....##.....##.##....##.##.....##.########.####
+
+
+Special thanks to Expansion for his work here, since this is a collab release. If you feel this
+working really well, PM him to express your thanks ^^
+
+Changelog:
+	v1.02: Updated Script for latest version
+	       Updated Ignite
+	v1.02: Improved Q usage to lasthit
+	v1.01: Fixed ignite usage on combo
+	v1.00: New Auth + Internal fixes
+	v0.04: Tweaked non-kill combo, so you can select if using R or not at certain
+		distance
+	       Added indicators for Q and W, so you are able to know when are they going
+		to disappear (On the enemy the Q, and on yourself the W)
+	       Added Lasthitting with abilities, with option to select the Q, AA or E,
+		keep it on toggle or just when the key is down.
+	v0.03: Fixed a bug with Ignite
+	       Added AA blocker if under W and no skills available (Optional and WIP)
+	v0.02: Fixed autoKS, improved with full combos
+	       Added AutoIgnite if not killable with other abilities
+	       Separated keys for combo and harass, and added all-in combo
+	v0.01: Initial Release
+
+Features:
+	*Smart combo: 
+		-It takes in count the energy and cooldown of the abilities, and does
+		 the combo the way you can kill the enemy using less abilities/using 
+		 the ones you have ready.
+		-If you can't burst an enemy, you once you press combo you will harass
+		 him until you can kill him. This "harass" isn't using R if you can't
+		 kill the objetive, so you can keep the control of where you should go.
+	*Smart KS: 
+		-Once you can kill a targetable objetive, you will do automaticly the
+		 combo the best way possible. In addition, it will check for objetives
+		 you can kill with R or R twice, so you can get more kills.
+	*Item and Summoner Usage: 
+		-It uses items and Ignite automatically on KS and on Combo.
+	*Tweaks:
+		-AutoKS has internal tweaks to not towerdive if you can't burst the enemy.
+		-The script is using his own target selector to select the best target to kill.
+
+TO-DO/Planned in future version:
+	*Laneclear
+	*Jungle clear
+	*Smart W usage on teamfight

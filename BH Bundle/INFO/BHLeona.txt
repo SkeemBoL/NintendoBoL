@@ -1,0 +1,20 @@
+ ____  _   _    __    ____  _____  _  _    __   
+(  _ \( )_( )  (  )  ( ___)(  _  )( \( )  /__\  
+ ) _ < ) _ (    )(__  )__)  )(_)(  )  (  /(__)\ 
+(____/(_) (_)  (____)(____)(_____)(_)\_)(__)(__)
+
+Changelog:
+	v1.30: Updated Script to work
+	       Included SxOrbwalk
+	v0.05: VPrediction support with E and R
+	v0.04: Internal Tweaks
+	v0.03: Added an option to autoR the Q-Stunned target
+	       Default R usage increased to 3
+	v0.02: Improved E cast (Fix useless check)
+	v0.01: First release
+
+
+Features: 
+	*SBTW Combo with E + Q to the selected champion (Left click)
+	*Ult with Mec with a minimum set of champions
+	*Item Usage (Including Randuins and Solari)

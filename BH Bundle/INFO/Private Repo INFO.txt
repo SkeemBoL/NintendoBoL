@@ -1,0 +1,52 @@
+
+ ____             __     __  __                                           
+/\  _`\          /\ \__ /\ \/\ \                                          
+\ \ \L\ \    ___ \ \ ,_\\ \ \_\ \      __     _____    _____    __  __    
+ \ \  _ <'  / __`\\ \ \/ \ \  _  \   /'__`\  /\ '__`\ /\ '__`\ /\ \/\ \   
+  \ \ \L\ \/\ \L\ \\ \ \_ \ \ \ \ \ /\ \L\.\_\ \ \L\ \\ \ \L\ \\ \ \_\ \  
+   \ \____/\ \____/ \ \__\ \ \_\ \_\\ \__/.\_\\ \ ,__/ \ \ ,__/ \/`____ \ 
+    \/___/  \/___/   \/__/  \/_/\/_/ \/__/\/_/ \ \ \/   \ \ \/   `/___/> \
+                                                \ \_\    \ \_\      /\___/
+                                                 \/_/     \/_/      \/__/ 
+ ____                              __     
+/\  _`\                           /\ \    
+\ \ \L\ \      __   _____     ___ \ \ \   
+ \ \ ,  /    /'__`\/\ '__`\  / __`\\ \ \  
+  \ \ \\ \  /\  __/\ \ \L\ \/\ \L\ \\ \_\ 
+   \ \_\ \_\\ \____\\ \ ,__/\ \____/ \/\_\
+    \/_/\/ / \/____/ \ \ \/  \/___/   \/_/
+                      \ \_\               
+                       \/_/                
+
+Welcome to my private repository! If you want to have more info about it, please
+have a look at this link: http://botoflegends.com/forum/topic/12577-feedback-bothappy-repository/
+
++-++-++-++-++-++-+
+|F||.||A||.||Q||.|
++-++-++-++-++-++-+
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: What do you have there?
+A: For now I have here my work-in-progress scripts. You can see what I have there in the main folder of the Bitbucket repo.
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: What makes this worth?
+A: Every script here is perfectly compatible with MMA and Reborn, so if you have one of them loaded, you will use its Target Selector
+and its orbwalker. Even with it, my library already has a decent integrated Orbwalker. It's using true range and attack speed correctly.
+So if you don't own any of these, you can use these script without any problem. Also they have advanced maths in every single possible
+spot.
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: Do you accept suggestions?
+A: Of course. For example, after finishing/advancing on my scripts I will ask my donators what they want to see the next, or you can
+suggest features on the scripts you can see here. Maybe I'm not answering every single suggestion, but I'm reading them.
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: What should I know before buying it?
+A: Firstly, all sales are final. This means that if you buy it, you accept you won't chargeback your money. If you do so, you will be
+banned from every project where I have been envolved, and I will make sure that every developer knows what you do.
+Secondly, even if I do my best to make them working as best as I can, shit happens sometimes and it gives you some errors, so don't 
+flame if you are using them on ranked and some weird stuff happens, report it, please ^^
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: How can I buy and have access to it?
+A: Prices and sales are written in the post: http://botoflegends.com/forum/topic/12577-feedback-bothappy-repository/
+----------------------------------------------------------------------------------------------------------------------------------------
+Q: I've found a bug, how could I report it? 
+A: I would suggest you to write it as best as you can in the forum post. If you think something is really wrong PM me in the forum.
+----------------------------------------------------------------------------------------------------------------------------------------
