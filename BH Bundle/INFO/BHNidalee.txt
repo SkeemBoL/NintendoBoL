@@ -26,6 +26,7 @@ Changelog:
 	       Added Harass Mode
 	       Added Use W (Traps) on targets snared/slowed/stuned
 	       Added KillSteals with proper R Switches
+	v3.20: Updated for Latest Patch
 
 ----> OLD
 	v1.09: Heal isn't canceling teleport anymore
