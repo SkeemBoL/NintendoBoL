@@ -1,5 +1,5 @@
 -- Script Name: Nintendo Bundle
--- Script Ver.: 1.12
+-- Script Ver.: 1.12  
 -- Thread Link: http://goo.gl/AiyB00
 -- Author     : Skeem
 
